@@ -26,10 +26,10 @@ p.p-tel {
     margin-top: 30px;
 }
 #quote-carousel .carousel-control.left {
-    left: -60px;
+    left: -10px;
 }
 #quote-carousel .carousel-control.right {
-    right: -60px;
+    right: -10px;
 }
 #quote-carousel .carousel-indicators {
     right: 50%;
