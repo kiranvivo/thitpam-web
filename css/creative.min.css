@@ -420,7 +420,6 @@ hr.light-sub {
 }
 
 p.p-address {
-    width: 200px;
     margin: 0 auto;
     padding-bottom: 20px;
 }
@@ -496,4 +495,15 @@ p.text-faded.text-a1 {
     font-family: 'Fontawesome';
     float: left;
     margin-right: 10px;
+}
+.item blockquote p:after {
+    content: "\f10e";
+    font-family: 'Fontawesome';
+    padding-left:10px;
+}
+
+.text-muted {
+    color: #777;
+    width: 80%;
+    margin-left: 10%;
 }
