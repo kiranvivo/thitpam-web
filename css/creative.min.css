@@ -507,3 +507,12 @@ p.text-faded.text-a1 {
     width: 80%;
     margin-left: 10%;
 }
+h1#homeHeading, h3#homeHeading {
+    color: maroon;
+}
+header .header-content .header-content-inner p {
+    font-weight: 300;
+    color: maroon;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
